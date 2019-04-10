@@ -1,0 +1,434 @@
+
+Log Entry:
+04/09/2019 17:27:12
+Error in: http://localhost:61872/, 
+
+Error Message: OnActionExecuting controller:Home action:Index
+====================================
+
+Log Entry:
+04/09/2019 17:29:51
+Error in: http://localhost:61872/, 
+
+Error Message: OnActionExecuting controller:Home action:Index
+====================================
+
+Log Entry:
+04/09/2019 19:48:00
+Error in: http://localhost:61872/, 
+
+Error Message: OnActionExecuting controller:Home action:Index
+====================================
+
+Log Entry:
+04/09/2019 19:48:01
+Error in: http://localhost:61872/, 
+
+Error Message: OnActionExecuted controller:Home action:Index
+====================================
+
+Log Entry:
+04/09/2019 19:48:01
+Error in: http://localhost:61872/, 
+
+Error Message: OnResultExecuting controller:Home action:Index
+====================================
+
+Log Entry:
+04/09/2019 19:48:06
+Error in: http://localhost:61872/, 
+
+Error Message: OnResultExecuted controller:Home action:Index
+====================================
+
+Log Entry:
+04/09/2019 19:52:34
+Error in: http://localhost:61872/, 
+
+Error Message: OnActionExecuting controller:Home action:Index
+====================================
+
+Log Entry:
+04/09/2019 19:53:32
+Error in: http://localhost:61872/, 
+
+Error Message: OnActionExecuting controller:Home action:Index
+====================================
+
+Log Entry:
+04/09/2019 19:53:36
+Error in: http://localhost:61872/, 
+
+Error Message: OnActionExecuted controller:Home action:Index
+====================================
+
+Log Entry:
+04/09/2019 19:53:39
+Error in: http://localhost:61872/, 
+
+Error Message: OnResultExecuting controller:Home action:Index
+====================================
+
+Log Entry:
+04/09/2019 19:53:46
+Error in: http://localhost:61872/, 
+
+Error Message: OnResultExecuted controller:Home action:Index
+====================================
+
+Log Entry:
+04/09/2019 19:53:59
+Error in: http://localhost:61872/Home/TestElmah, 
+
+Error Message: OnActionExecuting controller:Home action:TestElmah
+====================================
+
+Log Entry:
+04/09/2019 19:53:59
+Error in: http://localhost:61872/Home/TestElmah, 
+
+Error Message: OnActionExecuted controller:Home action:TestElmah
+====================================
+
+Log Entry:
+04/09/2019 19:53:59
+Error in: http://localhost:61872/Home/TestElmah, 
+
+Error Message: OnResultExecuting controller:Home action:TestElmah
+====================================
+
+Log Entry:
+04/09/2019 19:53:59
+Error in: http://localhost:61872/Home/TestElmah, 
+
+Error Message: OnResultExecuted controller:Home action:TestElmah
+====================================
+
+Log Entry:
+04/09/2019 19:54:30
+Error in: http://localhost:61872/Home/TestElmah, 
+
+Error Message: OnActionExecuting controller:Home action:TestElmah
+====================================
+
+Log Entry:
+04/09/2019 19:54:38
+Error in: http://localhost:61872/Home/TestElmah, 
+
+Error Message: OnActionExecuted controller:Home action:TestElmah
+====================================
+
+Log Entry:
+04/09/2019 19:54:45
+Error in: http://localhost:61872/Home/TestElmah, 
+
+Error Message: OnResultExecuting controller:Home action:TestElmah
+====================================
+
+Log Entry:
+04/09/2019 19:54:45
+Error in: http://localhost:61872/Home/TestElmah, 
+
+Error Message: OnResultExecuted controller:Home action:TestElmah
+====================================
+
+Log Entry:
+04/09/2019 19:55:45
+Error in: http://localhost:61872/, 
+
+Error Message: OnActionExecuting controller:Home action:Index
+====================================
+
+Log Entry:
+04/09/2019 19:56:05
+Error in: http://localhost:61872/, 
+
+Error Message: OnActionExecuted controller:Home action:Index
+====================================
+
+Log Entry:
+04/09/2019 19:56:32
+Error in: http://localhost:61872/, 
+
+Error Message: OnActionExecuting controller:Home action:Index
+====================================
+
+Log Entry:
+04/09/2019 19:56:36
+Error in: http://localhost:61872/, 
+
+Error Message: OnActionExecuted controller:Home action:Index
+====================================
+
+Log Entry:
+04/09/2019 20:04:25
+Error in: http://localhost:61872/, 
+
+Error Message: OnActionExecuting controller:Home action:Index
+====================================
+
+Log Entry:
+04/09/2019 20:04:31
+Error in: http://localhost:61872/, 
+
+Error Message: OnActionExecuted controller:Home action:Index
+====================================
+
+Log Entry:
+04/09/2019 20:06:45
+Error in: http://localhost:61872/, 
+
+Error Message: OnActionExecuting controller:Home action:Index
+====================================
+
+Log Entry:
+04/09/2019 20:06:45
+Error in: http://localhost:61872/, 
+
+Error Message: OnActionExecuted controller:Home action:Index
+====================================
+
+Log Entry:
+04/09/2019 20:06:45
+Error in: http://localhost:61872/, 
+
+Error Message: OnResultExecuting controller:Home action:Index
+====================================
+
+Log Entry:
+04/09/2019 20:06:50
+Error in: http://localhost:61872/, 
+
+Error Message: OnResultExecuted controller:Home action:Index
+====================================
+
+Log Entry:
+04/09/2019 20:06:57
+Error in: http://localhost:61872/, 
+
+Error Message: OnActionExecuting controller:Home action:Index
+====================================
+
+Log Entry:
+04/09/2019 20:06:57
+Error in: http://localhost:61872/, 
+
+Error Message: OnActionExecuted controller:Home action:Index
+====================================
+
+Log Entry:
+04/09/2019 20:06:57
+Error in: http://localhost:61872/, 
+
+Error Message: OnResultExecuting controller:Home action:Index
+====================================
+
+Log Entry:
+04/09/2019 20:06:57
+Error in: http://localhost:61872/, 
+
+Error Message: OnResultExecuted controller:Home action:Index
+====================================
+
+Log Entry:
+04/09/2019 20:06:59
+Error in: http://localhost:61872/Home/About, 
+
+Error Message: OnActionExecuting controller:Home action:About
+====================================
+
+Log Entry:
+04/09/2019 20:06:59
+Error in: http://localhost:61872/Home/About, 
+
+Error Message: OnActionExecuted controller:Home action:About
+====================================
+
+Log Entry:
+04/09/2019 20:06:59
+Error in: http://localhost:61872/Home/About, 
+
+Error Message: OnResultExecuting controller:Home action:About
+====================================
+
+Log Entry:
+04/09/2019 20:06:59
+Error in: http://localhost:61872/Home/About, 
+
+Error Message: OnResultExecuted controller:Home action:About
+====================================
+
+Log Entry:
+04/09/2019 20:07:57
+Error in: http://localhost:61872/Home/About, 
+
+Error Message: OnActionExecuting controller:Home action:About
+====================================
+
+Log Entry:
+04/09/2019 20:07:57
+Error in: http://localhost:61872/Home/About, 
+
+Error Message: OnActionExecuted controller:Home action:About
+====================================
+
+Log Entry:
+04/09/2019 20:07:57
+Error in: http://localhost:61872/Home/About, 
+
+Error Message: OnResultExecuting controller:Home action:About
+====================================
+
+Log Entry:
+04/09/2019 20:07:57
+Error in: http://localhost:61872/Home/About, 
+
+Error Message: OnResultExecuted controller:Home action:About
+====================================
+
+Log Entry:
+04/09/2019 20:08:00
+Error in: http://localhost:61872/Home/Contact, 
+
+Error Message: OnActionExecuting controller:Home action:Contact
+====================================
+
+Log Entry:
+04/09/2019 20:08:00
+Error in: http://localhost:61872/Home/Contact, 
+
+Error Message: OnActionExecuted controller:Home action:Contact
+====================================
+
+Log Entry:
+04/09/2019 20:08:00
+Error in: http://localhost:61872/Home/Contact, 
+
+Error Message: OnResultExecuting controller:Home action:Contact
+====================================
+
+Log Entry:
+04/09/2019 20:08:00
+Error in: http://localhost:61872/Home/Contact, 
+
+Error Message: OnResultExecuted controller:Home action:Contact
+====================================
+
+Log Entry:
+04/09/2019 20:08:02
+Error in: http://localhost:61872/Home/About, 
+
+Error Message: OnActionExecuting controller:Home action:About
+====================================
+
+Log Entry:
+04/09/2019 20:08:02
+Error in: http://localhost:61872/Home/About, 
+
+Error Message: OnActionExecuted controller:Home action:About
+====================================
+
+Log Entry:
+04/09/2019 20:08:02
+Error in: http://localhost:61872/Home/About, 
+
+Error Message: OnResultExecuting controller:Home action:About
+====================================
+
+Log Entry:
+04/09/2019 20:08:02
+Error in: http://localhost:61872/Home/About, 
+
+Error Message: OnResultExecuted controller:Home action:About
+====================================
+
+Log Entry:
+04/09/2019 20:11:18
+Error in: http://localhost:61872/, 
+
+Error Message: OnActionExecuting controller:Home action:Index
+====================================
+
+Log Entry:
+04/09/2019 20:11:18
+Error in: http://localhost:61872/, 
+
+Error Message: OnActionExecuted controller:Home action:Index
+====================================
+
+Log Entry:
+04/09/2019 20:11:18
+Error in: http://localhost:61872/, 
+
+Error Message: OnResultExecuting controller:Home action:Index
+====================================
+
+Log Entry:
+04/09/2019 20:11:24
+Error in: http://localhost:61872/, 
+
+Error Message: OnResultExecuted controller:Home action:Index
+====================================
+
+Log Entry:
+04/09/2019 20:11:50
+Error in: http://localhost:61872/Home/About, 
+
+Error Message: OnActionExecuting controller:Home action:About
+====================================
+
+Log Entry:
+04/09/2019 20:11:50
+Error in: http://localhost:61872/Home/About, 
+
+Error Message: OnActionExecuted controller:Home action:About
+====================================
+
+Log Entry:
+04/09/2019 20:11:50
+Error in: http://localhost:61872/Home/About, 
+
+Error Message: OnResultExecuting controller:Home action:About
+====================================
+
+Log Entry:
+04/09/2019 20:11:50
+Error in: http://localhost:61872/Home/About, 
+
+Error Message: OnResultExecuted controller:Home action:About
+====================================
+
+Log Entry:
+04/09/2019 20:12:43
+Error in: http://localhost:61872/Home/About, 
+
+Error Message: OnActionExecuting controller:Home action:About
+====================================
+
+Log Entry:
+04/09/2019 20:12:43
+Error in: http://localhost:61872/Home/About, 
+
+Error Message: OnActionExecuted controller:Home action:About
+====================================
+
+Log Entry:
+04/09/2019 20:12:43
+Error in: http://localhost:61872/Home/About, 
+
+Error Message: OnResultExecuting controller:Home action:About
+====================================
+
+Log Entry:
+04/09/2019 20:12:43
+Error in: http://localhost:61872/Home/About, 
+
+Error Message: OnResultExecuted controller:Home action:About
+====================================
+
+Log Entry:
+04/09/2019 21:01:52
+Error in: http://localhost:61872/, 
+
+Error Message: OnActionExecuting controller:Home action:Index
+====================================
